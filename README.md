@@ -2,12 +2,12 @@
 
 ##Projects
 ### Project 1
--Description
--Links
+- Description
+- Links
 
 ### Project 2
--Description
--Links
+- Description
+- Links
 
 # Education
 - Madison College
